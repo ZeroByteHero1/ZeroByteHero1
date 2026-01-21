@@ -89,27 +89,28 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 
 ---
-
 <table width="100%">
   <tr>
-    <!-- Left Column: Top Languages -->
+    <!-- Left Column -->
     <td align="center" valign="top" width="48%">
-      <img src="https://media.giphy.com/media/26xBukhVdR8QkV6UE/giphy.gif" width="60" style="border-radius:50%;"/><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeroByteHero1&layout=compact&theme=radical" width="300"/>
-      <p><b>Top Languages</b></p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeroByteHero1&layout=compact&theme=radical" width="280"/><br>
+      <b>Top Languages</b>
     </td>
-
-    <td width="4%"></td> <!-- spacer -->
-
-    <!-- Right Column: Stats + Streak -->
+    <td width="4%"></td> 
+    <!-- Spacer -->
+    <!-- Right Column -->
     <td align="center" valign="top" width="48%">
-      <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="60" style="border-radius:50%;"/><br>
-      <img src="https://github-readme-stats.vercel.app/api?username=ZeroByteHero1&show_icons=true&theme=radical" width="300"/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroByteHero1&theme=radical" width="300"/>
-      <p><b>GitHub Stats & Streak</b></p>
+      <img src="https://github-readme-stats.vercel.app/api?username=ZeroByteHero1&show_icons=true&theme=radical" width="280"/><br><br>
+      <img src="https://github-readme-streak-stats.demolab.com?user=ZeroByteHero1&theme=radical" width="280"/><br>
+      <b>GitHub Stats & Streak</b>
     </td>
   </tr>
 </table>
+
+  
+</table>
+
+
 
 
 
