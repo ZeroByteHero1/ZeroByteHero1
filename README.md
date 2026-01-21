@@ -73,19 +73,28 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style="line-height:50px;">
+
   <a href="https://facebook.com/rejwanofficial789" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://instagram.com/rejwanofficial789" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="https://wa.me/8801753034027" target="_blank">
     <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="40"/>
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://linkedin.com/in/rejwan777" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+
   <a href="mailto:rejwanislam76@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail--v1.png" width="40"/>
   </a>
 </p>
+
 
 
 ---
@@ -106,14 +115,5 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
     </td>
   </tr>
 </table>
-
-  
-</table>
-
-
-
-
-
-
 
 
