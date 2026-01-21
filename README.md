@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rejwan</h1>
+<h1 align="center">Hi, I'm NEAMOT ALI REJWAN </h1>
 <h3 align="center">Software Enthusiast | Problem Solver | Developer in Progress</h3>
 
 <img align="right" alt="coding" width="380"
@@ -44,4 +44,4 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 ---
 
 ### Contact
-- Email: your-email@example.com
+- Email: your- rejwanislam76@gmail.com
