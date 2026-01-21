@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Rejwan</h1>
+<h3 align="center">Software Enthusiast | Problem Solver | Developer in Progress</h3>
 
-<!--
-**ZeroByteHero1/ZeroByteHero1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="coding" width="380"
+src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ZeroByteHero1&label=Profile%20views&color=0e75b6&style=flat" alt="ZeroByteHero1" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+- Currently focused on strengthening core programming fundamentals  
+- Learning Java and backend-oriented concepts  
+- Interested in scalable systems and clean code  
+- Goal-driven and consistent learner  
+
+---
+
+### Tech Stack
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeroByteHero1&layout=compact" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeroByteHero1&show_icons=true" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroByteHero1" />
+</p>
+
+---
+
+### Contact
+- Email: your-email@example.com
