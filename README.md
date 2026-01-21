@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm NEAMOT ALI REJWAN</h1>
-<h3 align="center">Software Enthusiast | Problem Solver | Developer in Progress</h3>
+<h1 align="center"> Hi, I'm NEAMOT ALI REJWAN </h1>
+<h3 align="center"> Software Enthusiast | Problem Solver | Developer in Progress </h3>
 
 <img align="right" alt="coding" width="360"
 src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
@@ -24,7 +24,6 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </p>
