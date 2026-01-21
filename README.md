@@ -70,9 +70,11 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
   <a href="https://wa.me/8801753034027" target="_blank">
     <img src="https://img.icons8.com/color/48/whatsapp--v1.png" width="40"/>
   </a>
+  <a href="mailto:rejwanislam76@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" width="40"/>
+  </a>
 </p>
 
-- Email: rejwanislam76@gmail.com
 
 ---
 
