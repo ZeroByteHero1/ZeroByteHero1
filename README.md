@@ -30,32 +30,44 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ---
 
-### Skills Summary
-- **Java:** OOP, Loops, Conditions, File Handling  
-- **Python:** Scripting, Logic Implementation, Automation  
-- **Web Development:** HTML5, CSS3, Responsive Layouts  
-- **Version Control:** Git & GitHub  
-- **Linux:** Basics and Command Line  
-- **Problem Solving:** Basic DSA, Loops, Conditional Logic  
-
----
-
-### Featured Projects
-- **Java Console App – Student Management System**  
-  Implemented OOP, File Handling, Loops  
-
-- **Python Script – File Organizer**  
-  Automates file/folder sorting and organization  
-
-- **Portfolio Website**  
-  Built with HTML & CSS, responsive design  
+<table width="100%">
+  <tr>
+    <td valign="top" width="48%">
+      <h3>Skills Summary</h3>
+      <ul>
+        <li><b>Java:</b> OOP, Loops, Conditions, File Handling</li>
+        <li><b>Python:</b> Scripting, Logic, Automation</li>
+        <li><b>Web Development:</b> HTML5, CSS3, Responsive Layouts</li>
+        <li><b>Version Control:</b> Git & GitHub</li>
+        <li><b>Linux:</b> Basics, Command Line</li>
+        <li><b>Problem Solving:</b> Basic DSA, Loops, Conditional Logic</li>
+      </ul>
+    </td>
+    <td valign="top" width="4%">
+      <!-- empty spacer column for gap -->
+    </td>
+    <td valign="top" width="48%">
+      <h3>Featured Projects</h3>
+      <ul>
+        <li><b>Java Console App – Student Management System</b><br>OOP, File Handling, Loops</li>
+        <li><b>Python Script – File Organizer</b><br>Automates file/folder sorting</li>
+        <li><b>Portfolio Website</b><br>Built with HTML & CSS, responsive design</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+ 
 
 ---
 
 ### Currently Learning
-- Data Structures with Java  
-- Backend fundamentals (APIs, Database integration)  
-- Advanced Python Automation  
+- Data Structures with Java (Arrays, Linked Lists, Stacks, Queues)
+- Backend Fundamentals (REST APIs, Database Integration)
+- Advanced Python Automation Scripts
+- Frontend Enhancements (HTML, CSS, Responsive Design)
+- Git & Version Control (Branching, Merging)
+- Problem Solving & Competitive Programming Basics
+- Deploying Projects (Netlify, Vercel)
 
 ---
 
@@ -78,15 +90,29 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ---
 
-### GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeroByteHero1&layout=compact" />
-</p>
+<table width="100%">
+  <tr>
+    <!-- Left Column: Top Languages -->
+    <td align="center" valign="top" width="48%">
+      <img src="https://media.giphy.com/media/26xBukhVdR8QkV6UE/giphy.gif" width="60" style="border-radius:50%;"/><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeroByteHero1&layout=compact&theme=radical" width="300"/>
+      <p><b>Top Languages</b></p>
+    </td>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZeroByteHero1&show_icons=true" />
-</p>
+    <td width="4%"></td> <!-- spacer -->
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroByteHero1" />
-</p>
+    <!-- Right Column: Stats + Streak -->
+    <td align="center" valign="top" width="48%">
+      <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="60" style="border-radius:50%;"/><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=ZeroByteHero1&show_icons=true&theme=radical" width="300"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroByteHero1&theme=radical" width="300"/>
+      <p><b>GitHub Stats & Streak</b></p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
