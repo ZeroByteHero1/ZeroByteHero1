@@ -25,35 +25,38 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </p>
 
 ---
 
 ### Skills Summary
-- Java: OOP, loops, conditions  
-- Python: basic scripting & logic  
-- HTML5, CSS3: layout & responsiveness  
-- Git & GitHub  
-- Linux basics  
+- **Java:** OOP, Loops, Conditions, File Handling  
+- **Python:** Scripting, Logic Implementation, Automation  
+- **Web Development:** HTML5, CSS3, Responsive Layouts  
+- **Version Control:** Git & GitHub  
+- **Linux:** Basics and Command Line  
+- **Problem Solving:** Basic DSA, Loops, Conditional Logic  
 
 ---
 
 ### Featured Projects
 - **Java Console App – Student Management System**  
-  Core Java, OOP concepts  
+  Implemented OOP, File Handling, Loops  
 
-- **Python Automation Script – File Organizer**  
-  Automates file sorting  
+- **Python Script – File Organizer**  
+  Automates file/folder sorting and organization  
 
 - **Portfolio Website**  
-  Built with HTML & CSS  
+  Built with HTML & CSS, responsive design  
 
 ---
 
 ### Currently Learning
 - Data Structures with Java  
-- Backend development fundamentals  
+- Backend fundamentals (APIs, Database integration)  
+- Advanced Python Automation  
 
 ---
 
